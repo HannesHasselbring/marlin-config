@@ -1,6 +1,8 @@
 # marlin-config
 hacky config for my modified ender3 pro
 
+[Config examles](https://github.com/MarlinFirmware/Configurations) are used for the current config
+
 # Ender Modifications
 - [speeddrive](https://github.com/sashalex007/speedDrive)
 - [BLTouch](https://www.creality3dofficial.com/products/creality-bl-touch)
